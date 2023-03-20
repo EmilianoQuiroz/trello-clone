@@ -6,9 +6,9 @@ Diplomatura en Programacion UTNRFH. Materia Android I.
 
 ![image](https://user-images.githubusercontent.com/78452543/226236590-500308d9-c0ac-4e82-8a84-a6e1b30e0a25.png)
 
-### Dia y horario:
+### Dia y horario: Martes 18:30 / 20:30
 
-### Profesor/a:
+### Profesor/a: 
 
 ### Temario: 
 ## OBJETIVOS GENERALES
